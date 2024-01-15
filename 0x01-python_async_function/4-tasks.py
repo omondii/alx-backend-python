@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Imported modules 
+""" Imported modules
 asyncio
 """
 import asyncio
